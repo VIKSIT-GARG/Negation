@@ -1,0 +1,137 @@
+{
+  "snapshot_date": "2026-10-27",
+  "projects": [
+    {
+      "name": "VBench",
+      "repository": "https://github.com/Vchitect/VBench",
+      "revision": "fd18b3d055cb0fc6f066ca90fe2c3c8cbb698490",
+      "license": "Apache-2.0",
+      "files": [
+        {
+          "upstream_path": "LICENSE",
+          "local_path": "third_party/VBench/LICENSE",
+          "sha256": "43070e2d4e532684de521b885f385d0841030efa2b1a20bafb76133a5e1379c1",
+          "modified": false
+        },
+        {
+          "upstream_path": "vbench/__init__.py",
+          "local_path": "third_party/VBench/vbench/__init__.py",
+          "sha256": "ed75ffe21eda639114cae10a0c81565f6f4b290b844895f4d4574fded2fc8cda",
+          "modified": false
+        },
+        {
+          "upstream_path": "vbench/subject_consistency.py",
+          "local_path": "third_party/VBench/vbench/subject_consistency.py",
+          "sha256": "55f5c9a3e5be543380a709b94712903fa67a76340c3c0cb2414ac090dbd1b78d",
+          "modified": false
+        },
+        {
+          "upstream_path": "vbench/background_consistency.py",
+          "local_path": "third_party/VBench/vbench/background_consistency.py",
+          "sha256": "7def92057819df0dad01c857eecf3b39b8b555c8cdfe881a672cc2b19dc226b4",
+          "modified": false
+        },
+        {
+          "upstream_path": "vbench/cli/evaluate.py",
+          "local_path": "third_party/VBench/vbench/cli/evaluate.py",
+          "sha256": "3be41b69f410849122f043cd9c419cf5edefebea8c6e70358f99468968d7516b",
+          "modified": false
+        }
+      ]
+    },
+    {
+      "name": "VLMEvalKit",
+      "repository": "https://github.com/open-compass/VLMEvalKit",
+      "revision": "dfdf3fc92480878517cd984b1c2a48e6e8c82880",
+      "license": "Apache-2.0",
+      "files": [
+        {
+          "upstream_path": "LICENSE",
+          "local_path": "third_party/VLMEvalKit/LICENSE",
+          "sha256": "5f0538b314b13e062d1fed3991ec1868cc71c49d0838cd7bc6ef563be06a5ad3",
+          "modified": false
+        },
+        {
+          "upstream_path": "vlmeval/vlm/base.py",
+          "local_path": "third_party/VLMEvalKit/vlmeval/vlm/base.py",
+          "sha256": "d4b24fe5f87d9cdf1aa7bb59e7f4c4492e9315c41e5abaadca16f6fa1ba78e9a",
+          "modified": false
+        },
+        {
+          "upstream_path": "vlmeval/dataset/image_base.py",
+          "local_path": "third_party/VLMEvalKit/vlmeval/dataset/image_base.py",
+          "sha256": "e66288eaf6d5e64d3413741eca1f2eaf69dcd7eb3171a2d670f1a0f25fdd8127",
+          "modified": false
+        }
+      ]
+    },
+    {
+      "name": "NegBench",
+      "repository": "https://github.com/m1k2zoo/negbench",
+      "revision": "2ac009b5adfb18d1d7c185c466b2bced10f43f6a",
+      "license": "MIT",
+      "files": [
+        {
+          "upstream_path": "LICENSE",
+          "local_path": "third_party/NegBench/LICENSE",
+          "sha256": "df229165d013a96e1b6b33768f9e59130a001860931e05339f4535ea977f3cad",
+          "modified": false
+        },
+        {
+          "upstream_path": "synthetic_datasets/evaluation/README.md",
+          "local_path": "third_party/NegBench/synthetic_datasets/evaluation/README.md",
+          "sha256": "bb48f6dd2375f160c7703bdf3761da588779f394c8b410f9f4ae0aab6c3e0af6",
+          "modified": false
+        },
+        {
+          "upstream_path": "synthetic_datasets/evaluation/process_caption_objects.py",
+          "local_path": "third_party/NegBench/synthetic_datasets/evaluation/process_caption_objects.py",
+          "sha256": "b35900030a491239e60b58dbc05556fe2b8055eda899ecf0695f8e1fbf2f23cb",
+          "modified": false
+        },
+        {
+          "upstream_path": "synthetic_datasets/evaluation/filter_negative_objects.py",
+          "local_path": "third_party/NegBench/synthetic_datasets/evaluation/filter_negative_objects.py",
+          "sha256": "c50b9c6dc29f6ecee0591a5731be9e385624af51e0b98e43f6c7b8991b30dbee",
+          "modified": false
+        },
+        {
+          "upstream_path": "synthetic_datasets/evaluation/create_mcq.py",
+          "local_path": "third_party/NegBench/synthetic_datasets/evaluation/create_mcq.py",
+          "sha256": "6ef71d107f884bc25eb1323f6a0db0a918d248f2be45e65006cbeaac445924d7",
+          "modified": false
+        },
+        {
+          "upstream_path": "synthetic_datasets/evaluation/paraphrase_captions.py",
+          "local_path": "third_party/NegBench/synthetic_datasets/evaluation/paraphrase_captions.py",
+          "sha256": "026bbee768448c5d5f1c689e93fb9d069a62d6b3cf324326078f0e34c862831e",
+          "modified": false
+        },
+        {
+          "upstream_path": "synthetic_datasets/evaluation/process_video_tasks.py",
+          "local_path": "third_party/NegBench/synthetic_datasets/evaluation/process_video_tasks.py",
+          "sha256": "90633c06f40b151186939fbeed883ea35f5ae5022dc27c956bd2f6ac6c18f4ee",
+          "modified": false
+        },
+        {
+          "upstream_path": "benchmarks/LICENSE",
+          "local_path": "third_party/NegBench/benchmarks/LICENSE",
+          "sha256": "66c5b96dfc9aeb407c7f932f86e0e95b94113daf1691f7dc6effc5d35cadff58",
+          "modified": false
+        },
+        {
+          "upstream_path": "benchmarks/src/evaluation/mcq.py",
+          "local_path": "third_party/NegBench/benchmarks/src/evaluation/mcq.py",
+          "sha256": "fb68d2fbe4dd97e8b79da27f73caf799251420033cf975f50a01fe84cb043cbc",
+          "modified": false
+        },
+        {
+          "upstream_path": "benchmarks/src/evaluation/retrieval.py",
+          "local_path": "third_party/NegBench/benchmarks/src/evaluation/retrieval.py",
+          "sha256": "d3586daf9b0ddb258430898e7a8e158ea69d64f444059a2952ac8c047ffd4bde",
+          "modified": false
+        }
+      ]
+    }
+  ]
+}

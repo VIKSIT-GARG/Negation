@@ -1,0 +1,40 @@
+{
+  "dataset_sha256": "794c6623b0326f8b2f402bf8c4bf33e72488f3ae5a6251b79e0b0bbbec61b787",
+  "seed": 42,
+  "seed_sha256": "069ee7ca8904a0ee498cda41c1ad65d9c7a56f4e153374ab35aae8610f28aa5b",
+  "summary": {
+    "categories": {
+      "animals": 36,
+      "clothing": 36,
+      "food": 36,
+      "furniture": 36,
+      "indoor": 36,
+      "music": 36,
+      "nature": 36,
+      "outdoor": 36,
+      "people": 36,
+      "rural": 36,
+      "sports": 36,
+      "technology": 36,
+      "tools": 36,
+      "toys": 36,
+      "travel": 36,
+      "urban": 36,
+      "vehicles": 36,
+      "water": 36
+    },
+    "pairs": 324,
+    "review_status": {
+      "needs_human_review": 648
+    },
+    "samples": 648,
+    "scenes": 36,
+    "splits": {
+      "test": 36,
+      "train": 414,
+      "validation": 198
+    },
+    "unique_prompts": 648
+  },
+  "version": "0.1.0"
+}

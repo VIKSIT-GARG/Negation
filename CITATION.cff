@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "Please cite this software and the relevant upstream papers listed in references.bib."
+type: software
+title: "NegationScope: Dataset Construction and Evaluation for Negation in Visual Models"
+version: 0.1.0
+authors:
+  - family-names: Garg
+    given-names: Viksit
+license: MIT
+date-released: 2026-10-27

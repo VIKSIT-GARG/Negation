@@ -1,0 +1,16 @@
+__pycache__/
+*.py[cod]
+.pytest_cache/
+*.egg-info/
+.venv/
+build/
+dist/
+runs/
+media/
+.env
+.env.*
+!.env.example
+*.mp4
+*.avi
+*.mov
+*.webm
